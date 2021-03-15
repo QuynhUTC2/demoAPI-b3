@@ -60,3 +60,5 @@ C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuy
 C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuynh_Demob3API\obj\Debug\5951071089_ToVoNhuQuynh_Demob3API.csproj.CopyComplete
 C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuynh_Demob3API\obj\Debug\5951071089_ToVoNhuQuynh_Demob3API.dll
 C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuynh_Demob3API\obj\Debug\5951071089_ToVoNhuQuynh_Demob3API.pdb
+C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuynh_Demob3API\bin\Swashbuckle.Core.dll
+C:\Users\HP\source\repos\5951071089_ToVoNhuQuynh_Demob3API\5951071089_ToVoNhuQuynh_Demob3API\bin\WebActivatorEx.dll

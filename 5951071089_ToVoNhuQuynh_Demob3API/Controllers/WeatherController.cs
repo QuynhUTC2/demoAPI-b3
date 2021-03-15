@@ -19,7 +19,7 @@ namespace _5951071089_ToVoNhuQuynh_Demob3API.Controllers
                 var InforWeather = new WeatherInfor
                 {
                     Location = $"Location {i}",
-                    Degree = $"{i + 36 - i * 0.2} độ C Tô Võ Như Quỳnh",
+                    Degree = i+32/17,
                     DateTime = DateTime.Now.ToUniversalTime()
                 };
                 weatherInfList.Add(InforWeather);
@@ -33,7 +33,7 @@ namespace _5951071089_ToVoNhuQuynh_Demob3API.Controllers
             return new WeatherInfor
             {
                 Location = $"Location{id}",
-                Degree = $"{id + 36 - id * 0.2} độ C Tô Võ Như Quỳnh",
+                Degree = id+32/17,
                 DateTime = DateTime.Now.ToUniversalTime()
             }; ;
         }
